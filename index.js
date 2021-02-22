@@ -1,5 +1,5 @@
 /** 
- * IN CLASS EXERCISE: Greeter App
+ * IN CLASS EXERCISE: Greeter App Updated
  *
  * Using if, else-if and else, AND depending on the hour of the day, 
  * write a greeting program that prints a greeting to the screen like so: 
